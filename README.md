@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @s-hdz
+- 👋 Hi, I’m stef
 - 👀 I’m interested in expanding my knowledge 
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate with beginner friendly
