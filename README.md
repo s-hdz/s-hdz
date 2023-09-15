@@ -1,7 +1,6 @@
-- 👋 Hi, I’m stef
-- 👀 I’m interested in expanding my knowledge 
-- 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate with beginner friendly people
+Wass up cu'hh check out my codeeees 
+
+Im ES n WE DA BEST 
 
 <!---
 s-hdz/s-hdz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
