@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class DogSizeQuiz {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        // First question
+        System.out.println("What size dog do you like? (XL, Large, Smol)");
+        String sizeChoice = scanner.nextLine();
+
+        // Process user's choice
+        if (sizeChoice.equalsIgnoreCase("XL")) {
+            System.out.println("Whitty says hi!");
+        } else if (sizeChoice.equalsIgnoreCase("Large")) {
+            System.out.println("Pearl says, no, where's my mom?");
+        } else if (sizeChoice.equalsIgnoreCase("Smol")) {
+            System.out.println("Chapapa is going home with you!");
+        } else {
+            System.out.println("Invalid choice. Can’t u read??? Please choose from XL, Large, or Smol.");
+        }
+
+        scanner.close();
+    }
+}
