@@ -1,6 +1,6 @@
 Wass up cu'hh check out my codeeees 
 
-Im ES n WE DA BEST 
+WE DA BEST 
 
 <!---
 s-hdz/s-hdz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
